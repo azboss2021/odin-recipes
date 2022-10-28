@@ -1,4 +1,4 @@
-# odin-recipes
+# Odin-Recipes
 
 The Odin Project recipe page.
 
